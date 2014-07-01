@@ -14,8 +14,8 @@
         "128": "images/icon128.png"
     },
     "name": "C895.org HTML5 Live Player For C89.5FM",
-    "permissions": [ "tabs", "*://*/*" ],
-    "version": "2014.7.1.0",
+    "permissions": [ ],
+    "version": "2014.7.1.1",
     "content_security_policy": "script-src 'self'; object-src 'self'"
 
 }
